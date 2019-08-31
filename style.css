@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap');
+
+
+body{
+    background-image: url("http://api.thumbr.it/whitenoise-361x370.png?");
+    font-family: 'Hepta Slab', serif;
+}
+
+.jumbotron{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    border: 0.05em silver solid;
+    background-color: #00a86b;
+    /* opacity: 0.9; */
+}
+
+.solid-line{
+    background-color: silver;
+    border-radius: 5px;
+}
+
+.headshot{
+    border-radius: 0.5em;
+    border: 0.05em black solid;
+    height: 300px;
+    width: auto;
+    /* opacity: .9; */
+}
